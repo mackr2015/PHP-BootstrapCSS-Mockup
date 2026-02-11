@@ -8,7 +8,6 @@
 
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="icons/font-awesome/css/all.min.css">
-    <link rel="stylesheet" type="text/css" href="icons/icofont/icofont.min.css">
 
     <link rel="stylesheet" href="css/main.css">
 
@@ -17,6 +16,9 @@
 <body>
 
     <?php include 'components/navigation/navigation.php'; ?>
+
+
+    
 
 
     <!-- <div>
